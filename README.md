@@ -16,9 +16,9 @@ A simple command line interface (CLI) application to fetch and display the recen
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/github-activity-cli.git
+   git clone https://github.com/shubhamtyagi072/Github-Acivity-cli
    ```
 
 ```
-task assigned by [https://roadmap.sh/projects/github-user-activity](https://roadmap.sh/projects/github-user-activity)
+task assigned by https://roadmap.sh/projects/github-user-activity
 ```
